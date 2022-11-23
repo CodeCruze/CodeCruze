@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeCruze
 - 👀 I’m interested in web development and cyber security
-- 🌱 I’m currently learning HTML, CSS, Javascript, Python
+- 🌱 I’m currently learning HTML, CSS, Bootstrap, Javascript, React, Python
 - 💞️ I’m looking to collaborate on beginner level projects
 - 📫 How to reach me 
 
